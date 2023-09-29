@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>First web</title>
+    <body>
+      <h2>Hello!</h2>
+      <hr>
+      <br>
+      <body>
+        <a href="link.html"
+        title="Yeah">
+          click me bobo
+        </a>
+        <br><br>
+        <p>favourite ni Louie </p>
+        <audio controls>
+          <source src="CorinneBaileyRae-PutYourRecordsOn_245.mp3"
+        </audio>
+        
+        <img src="IMG_20230801_120519.jpg"
+        height="200"
+      </body>
+
+    </body>
+  </head>
+</html>
